@@ -2,7 +2,7 @@
 //|                                        Quick_Scalper_10.mq5      |
 //|                                        10 Trade Basket Scalper    |
 //+------------------------------------------------------------------+
-#property copyright "Alire"
+#property copyright "gg"
 #property version   "7.00"
 #property strict
 

@@ -1,8 +1,8 @@
 //+------------------------------------------------------------------+
-//|                                    Alpari_Gold_Scalper_EA.mq5    |
+//|                                                 Scalper_EA.mq5    |
 //|                                    Scalping Expert Advisor Gold   |
 //+------------------------------------------------------------------+
-#property copyright "Alpari Gold Scalper EA"
+#property copyright "Gold Scalper EA"
 #property version   "1.08"
 #property strict
 

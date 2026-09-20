@@ -1,7 +1,7 @@
 //+------------------------------------------------------------------+
 //|                                      Simple_Scalper_Optimized.mq5|
 //+------------------------------------------------------------------+
-#property copyright "Alire"
+#property copyright "gg"
 #property version   "2.00"
 #property strict
 

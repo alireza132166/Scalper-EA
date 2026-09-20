@@ -2,7 +2,7 @@
 //|                                      Quick_Scalper_Basket.mq5    |
 //|                                      Basket Scalping Strategy     |
 //+------------------------------------------------------------------+
-#property copyright "Alire"
+#property copyright "gg"
 #property version   "3.00"
 #property strict
 
