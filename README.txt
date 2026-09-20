@@ -5,7 +5,7 @@
 نحوه نصب:
 ---------
 
-1. فایل Alpari_Scalper_EA.mq5 را در پوشه زیر کپی کنید:
+1. فایل Scalper_EA.mq5 را در پوشه زیر کپی کنید:
    C:\Users\[نام کاربری]\AppData\Roaming\MetaQuotes\Terminal\[شماره ترمینال]\MQL5\Experts\
 
 2. متاتریدر 5 را ریستارت کنید یا روی "Refresh" در پنجره Navigator کلیک کنید
